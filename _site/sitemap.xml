@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://marbou090.github.io//404</loc>
+<loc>/404</loc>
 </url>
 <url>
-<loc>https://marbou090.github.io//tags/</loc>
+<loc>/tags/</loc>
 </url>
 <url>
-<loc>https://marbou090.github.io//</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>https://marbou090.github.io//posts/</loc>
+<loc>/posts/</loc>
 </url>
 <url>
-<loc>https://marbou090.github.io//projects/</loc>
+<loc>/projects/</loc>
 </url>
 <url>
-<loc>https://marbou090.github.io//about/</loc>
+<loc>/about/</loc>
 </url>
 </urlset>

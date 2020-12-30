@@ -35,10 +35,10 @@ kaggleでテーブルコンペを中心に学習しています。学内ハッ�
 + JavaScript
 
 # Social
-GitHub :  [https://github.com/marbou090]("https://github.com/marbou090")
+[GitHub](https://github.com/marbou090){: .btn}
 
-Twitter : [https://twitter.com/mr__py]("https://twitter.com/mr__py")
+[Twitter](https://twitter.com/mr__py){: .btn}
 
-Kaggle : [https://www.kaggle.com/mrboupp]("https://www.kaggle.com/mrboupp")
+[Kaggle](https://www.kaggle.com/mrboupp){: .btn}
 
-Blog : [https://marbou090.github.io/MyBlog/]("https://marbou090.github.io/MyBlog/")
+[Blog](https://marbou090.github.io/MyBlog/){: .btn}
