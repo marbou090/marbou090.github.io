@@ -4,6 +4,7 @@ title: Introduction
 tags: [about]
 date: 2020-12-29
 comments: false
+mathjax: true
 ---
 
 # Profile
@@ -24,7 +25,7 @@ kaggleでテーブルコンペを中心に学習しています。学内ハッ�
 
 + 自然言語処理
 
-勉強したい。
+勉強したい。  
 
 # Language
 + Python
