@@ -63,7 +63,7 @@ function drawWorldCloud() {
 </script>
 <section style="position:relative; width:100%; height:500px;">
     <!-- グラフの描画先 -->
-    <div style="width:100%; left: 260px;"></div>
+    <div id="chartdiv" style="width:100%; left: 260px;"></div>
     <div class="has-text-centered">
         <button id="redraw" class="button is-primary is-rounded">Redraw</button>
     </div>
