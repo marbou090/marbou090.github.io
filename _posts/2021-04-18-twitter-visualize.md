@@ -10,6 +10,12 @@ comments: false
 ---
 ツイッターAPIを用いてタイムラインのツイートを取得し、可視化してみました。
 
+<style type="text/css">
+#chartdiv{
+    width:100%;
+    height:500px;
+}
+</style>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
 <script src="https://www.amcharts.com/lib/4/core.js"></script>
@@ -63,7 +69,7 @@ function drawWorldCloud() {
 </script>
 <section style="position:relative; width:100%; height:500px;">
     <!-- グラフの描画先 -->
-    <div id="chartdiv" style="width:100%; left: 260px;"></div>
+    <div id="chartdiv"></div>
     <div class="has-text-centered">
         <button id="redraw" class="button is-primary is-rounded">Redraw</button>
     </div>
