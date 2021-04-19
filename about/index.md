@@ -32,6 +32,7 @@ mathjax: true
 + Java
 + HTML/CSS
 + JavaScript
++ Haskell
 
 # Social
 [GitHub](https://github.com/marbou090){: .btn}
@@ -41,3 +42,5 @@ mathjax: true
 [Kaggle](https://www.kaggle.com/mrboupp){: .btn}
 
 [Blog](https://marbou090.github.io/MyBlog/){: .btn}
+
+[Docswell](https://www.docswell.com/user/marbou090){: .btn}
