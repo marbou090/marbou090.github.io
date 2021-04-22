@@ -18,12 +18,13 @@ mathjax: true
 
 # Log
 ### ・2021/03 ABEMA Growth Tech ONLINE
-<p style="text-indent:1em;">機械学習を用いた番組レコメンド機能をAPIに組み込むワークショップに参加し、自由課題でレコメンドシステム改善案で優勝賞をいただきました。</p>
+<p style="text-indent:1em;">機械学習を用いた番組レコメンド機能をAPIに組み込むワークショップに参加し、自由課題でレコメンドシステム改善案で優秀賞をいただきました。</p>
 
 ### ・2020/12 FunLocks 
 <p style="text-indent:1em;">
 コロナ対策に向けた機械学習を用いた混雑予測アプリを作成し企業賞をいただきました。</p>
 
+### ・2020/02 GlobalGameJam 2020 Hakodate 参加
 ### ・2020/01 公立はこだて未来大学プログラミング基礎ピタゴラ製作クラス代表
 ### ・2019/07 公立はこだて未来大学情報表現入門自分スケジューラ発表会
 ### ・2019/05 公立はこだて未来大学情報表現入門オリジナルゲーム発表会
@@ -35,7 +36,6 @@ mathjax: true
 + Java
 + HTML/CSS
 + JavaScript
-+ Haskell
 
 # Social
 [GitHub](https://github.com/marbou090){: .btn}
