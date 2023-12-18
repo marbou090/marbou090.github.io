@@ -8,7 +8,7 @@ mathjax: true
 ---
 
 # Profile
-公立はこだて未来大学複雑系B3の加藤まるです。機械学習/データサイエンス/自然言語処理に興味があります。東京大学教育学部附属中等教育学校を中退しています。現在は塾講師アルバイトをしながら生きています。
+公立はこだて未来大学複雑系B4の加藤まるです。自然言語処理に興味があります。
 
 # Studying
 + 機械学習
@@ -17,6 +17,9 @@ mathjax: true
 + 自然言語処理
 
 # Log
+### ・2022/05 - 2023/05 サイボウズラボユース研究生
+<p style="text-indent:1em;">サイボウズラボユース研究生として1年間「機械学習/自然言語処理に関するソフトウェア開発コース」で活動させていただきました。[成果発表会](https://blog.cybozu.io/entry/2023/04/06/083722)にて「枝刈りとLexrankによる文書要約手法の提案」という題で発表しました。</p>
+
 ### ・2021/03 ABEMA Growth Tech ONLINE
 <p style="text-indent:1em;">機械学習を用いた番組レコメンド機能をAPIに組み込むワークショップに参加し、自由課題でレコメンドシステム改善案で優秀賞をいただきました。</p>
 
@@ -33,9 +36,6 @@ mathjax: true
 + Python
 + Processing
 + C
-+ Java
-+ HTML/CSS
-+ JavaScript
 
 # Social
 [GitHub](https://github.com/marbou090){: .btn}
